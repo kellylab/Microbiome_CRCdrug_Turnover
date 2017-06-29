@@ -20,5 +20,5 @@ Overview
     |
     |- results         
     |  |- tables/      # output tables for BG, transporters and KEGG analysis
-    |  +- figures/     # graphs, likely designated for manuscript figures
+    |  +- figures/     # graphs
    
